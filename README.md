@@ -4,6 +4,9 @@ A voice-activated Chatbot created in C#.
 # INTRODUCTION
 This was a multimedia project I decided to develop over the Christmas/New Years holidays of 2020. It is a chatbot developed in C# that utilises Windows Speech Synthesis and Recognition SDKs in order to respond to user's microphone inputs in real time and complete elementary tasks for them. Such as opening search engines and applications, telling the user the date and time or simply greeting them.
 
+# WHERE IS THE FILE?
+The file is located at ChatBot/bin/Debug/Alter Ego.exe within this repository. Simply download this file and run it to use it.
+
 # COMMANDS
 To toggle the microphone, please click the "mic_on" button located at the bottom right section of the screen.
 
