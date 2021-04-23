@@ -7,7 +7,7 @@ This was a multimedia project I decided to develop over the Christmas/New Years 
 # COMMANDS
 To toggle the microphone, please click the "mic_on" button located at the bottom right section of the screen.
 
-This chatbot has several voice commands, such as:
+This chatbot has several voice commands, such as:  
 "Hi/Hello":                     A standard command that when said will return a random greeting.  
 "Open Google":                  This command opens Google search on the user's browser.  
 "Open Notepad":                 This command opens the Notepad application on the user's device.  
