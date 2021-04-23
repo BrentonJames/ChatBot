@@ -8,7 +8,8 @@ This was a multimedia project I decided to develop over the Christmas/New Years 
 The file is located at ChatBot/bin/Debug/Alter Ego.exe within this repository. Simply download this file and run it to use it.
 
 # COMMANDS
-To toggle the microphone, please click the "mic_on" button located at the bottom right section of the screen.
+To disable/enable the microphone, please click the "mic_on" button located at the bottom right section of the screen.  
+mic_on = microphone enabled, mic_off = microphone disabled.
 
 This chatbot has several voice commands, such as:  
 "Hi/Hello":                     A standard command that when said will return a random greeting.  
