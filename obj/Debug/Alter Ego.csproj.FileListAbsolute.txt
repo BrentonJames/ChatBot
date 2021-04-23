@@ -1,0 +1,10 @@
+C:\Users\Bel\source\repos\Alter Ego\Alter Ego\bin\Debug\Alter Ego.exe.config
+C:\Users\Bel\source\repos\Alter Ego\Alter Ego\bin\Debug\Alter Ego.exe
+C:\Users\Bel\source\repos\Alter Ego\Alter Ego\bin\Debug\Alter Ego.pdb
+C:\Users\Bel\source\repos\Alter Ego\Alter Ego\obj\Debug\Alter Ego.csprojAssemblyReference.cache
+C:\Users\Bel\source\repos\Alter Ego\Alter Ego\obj\Debug\Alter_Ego.Form1.resources
+C:\Users\Bel\source\repos\Alter Ego\Alter Ego\obj\Debug\Alter_Ego.Properties.Resources.resources
+C:\Users\Bel\source\repos\Alter Ego\Alter Ego\obj\Debug\Alter Ego.csproj.GenerateResource.cache
+C:\Users\Bel\source\repos\Alter Ego\Alter Ego\obj\Debug\Alter Ego.csproj.CoreCompileInputs.cache
+C:\Users\Bel\source\repos\Alter Ego\Alter Ego\obj\Debug\Alter Ego.exe
+C:\Users\Bel\source\repos\Alter Ego\Alter Ego\obj\Debug\Alter Ego.pdb
