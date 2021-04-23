@@ -23,7 +23,9 @@ This chatbot has several voice commands, such as:
 "Close":                        This command closes the application.  
 
 # KNOWN ISSUES
-Unfortunately there are some problems with the voice detection SDK. Half of test users report it to not accept voice commands on their device, while the other half of test users can use this software perfectly fine. If you find yourself to be the former, try closing the software and starting it again. If problems persist, use the command line located at the bottom of the application to submit commands.
+Unfortunately there are some problems with the voice detection SDK. Half of test users report it to not accept voice commands on their device, while the other half of test users can use this software perfectly fine. If you find yourself to be the former, try closing the software and starting it again. Commands must be spoken precisely.  
+I think it might have a bit of trouble with either Australian accents, security permissions, microphone quality or all three.  
+If problems persist, use the command line located at the bottom of the application to submit commands instead.
 
 # UPCOMING FEATURES
 In the future I intend to implement a dedicated "chat" mode; this would allow the user to ask the chatbot questions and engage in conversation with it. Making it more similar to a conventional chatbot.
